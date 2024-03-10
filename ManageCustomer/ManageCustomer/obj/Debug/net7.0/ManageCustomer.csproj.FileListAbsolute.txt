@@ -1,5 +1,6 @@
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\appsettings.Development.json
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\appsettings.json
+D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\ManageCustomer.staticwebassets.runtime.json
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\ManageCustomer.exe
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\ManageCustomer.deps.json
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\ManageCustomer.runtimeconfig.json
@@ -31,4 +32,3 @@ D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\obj\Debug
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\obj\Debug\net7.0\ManageCustomer.pdb
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\obj\Debug\net7.0\ManageCustomer.genruntimeconfig.cache
 D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\obj\Debug\net7.0\ref\ManageCustomer.dll
-D:\Test\Interview\SmallHTTP-basedService\ManageCustomer\ManageCustomer\bin\Debug\net7.0\ManageCustomer.staticwebassets.runtime.json
