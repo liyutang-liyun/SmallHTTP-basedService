@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ao5IznM/kPVBWTb6GtCRrTEqe2g7Y3/bHz8Dxi++Ack=",
+  "Source": "ManageCustomer",
+  "BasePath": "_content/ManageCustomer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ManageCustomer\\wwwroot",
+      "Source": "ManageCustomer",
+      "ContentRoot": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\",
+      "BasePath": "_content/ManageCustomer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\index.html",
+      "SourceId": "ManageCustomer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\",
+      "BasePath": "_content/ManageCustomer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\script.js",
+      "SourceId": "ManageCustomer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\",
+      "BasePath": "_content/ManageCustomer",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\styles.css",
+      "SourceId": "ManageCustomer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\",
+      "BasePath": "_content/ManageCustomer",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

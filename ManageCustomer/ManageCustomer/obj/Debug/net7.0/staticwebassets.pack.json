@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "D:\\Test\\Interview\\SmallHTTP-basedService\\ManageCustomer\\ManageCustomer\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ManageCustomer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ManageCustomer.props",
+      "PackagePath": "build\\ManageCustomer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ManageCustomer.props",
+      "PackagePath": "buildMultiTargeting\\ManageCustomer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ManageCustomer.props",
+      "PackagePath": "buildTransitive\\ManageCustomer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
